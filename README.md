@@ -26,6 +26,7 @@ speed up the process.
 ## Signatures
 
 - Fedor Indutny (Node.js TSC Emeritus Member)
+- Jan Lehnardt (CEO Neighbourhoodie Software, PMC Chair Apache CouchDB (still powers parts of npm) & PouchDB, co-organiser JSConf EU, Node.js since Ryan announced it, presenting from my laptop)
 
 [0]: https://github.com/openjs-foundation/cross-project-council/issues/1509
 [1]: https://github.com/nodejs/node/pull/61478
