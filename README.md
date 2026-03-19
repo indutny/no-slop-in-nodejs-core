@@ -94,6 +94,7 @@ speed up the process.
 - Jeremy Jenkins (Software Engineer)
 - Oleg Kvampov (Node.js backend developer)
 - Thomas Hunter II (author of Distributed Systems with Node.js)
+- Anas Elgarhy (Software Engineer)
 - Kęstutis Dambrauskas (Front-end developer)
 
 [0]: https://github.com/openjs-foundation/cross-project-council/issues/1509
