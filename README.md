@@ -57,17 +57,31 @@ the issue with large LLM-written changes to the Node.js core.
 
 ## Additional Concerns
 
-- _Ethical_: major LLM companies use unethically sourced material for their
-  training. This includes copyrighted works, and unattributed Open Source code
-  of varying licensing
-- _Educational_: there is evidence that use of LLM hinders learning process for
-  students. Since Open Source projects frequently on-board new contributors
-  lowering the quality bar of accepted code could lead to decreased
-  understanding of the Node.js core and risk project's longevity
-- _Privilege_: LLM use requires paid subscription or significant
-  investment into hardware to run it locally (albeit, with lower quality of
-  output). Submitted generated code should be reproducible by reviewers without
-  having to go through the paywall of subscription based LLM tooling.
+### Ethical
+
+Major LLM companies use unethically sourced material for their training. This
+includes copyrighted works, and unattributed Open Source code of varying
+licensing.
+
+### Educational
+
+There is evidence that use of LLM hinders learning process for students. Since
+Open Source projects frequently on-board new contributors lowering the quality
+bar of accepted code could lead to decreased understanding of the Node.js core
+and risk project's longevity.
+
+Additionally, the code review process exists not only to identify bugs, security
+issues and to make the change conform to the style and architecture of the
+project, but also to help the submitter learn and grow as a contributor.
+However, LLM has no ability to learn so the time spent on review is repeatedly
+wasted without advancing the contributor's skills.
+
+### Privilege
+
+LLM use requires paid subscription or significant investment into hardware to
+run it locally (albeit, with lower quality of output). Submitted generated code
+should be reproducible by reviewers without having to go through the paywall of
+subscription based LLM tooling.
 
 ## Sign the Petition
 
