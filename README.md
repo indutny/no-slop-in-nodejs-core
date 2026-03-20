@@ -143,6 +143,7 @@ speed up the process.
 - Ajeet Pratap Singh (Open Source Developer)
 - Shivam Veer (Software Engineer / DIYer)
 - Niels Roesen Abildgaard (Staff Software Consultant)
+- Jocelyn Badgley (Software Engineer)
 
 [0]: https://github.com/openjs-foundation/cross-project-council/issues/1509
 [1]: https://github.com/nodejs/node/pull/61478
