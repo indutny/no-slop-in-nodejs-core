@@ -118,6 +118,7 @@ speed up the process.
 - Edward Loveall (Software Developer)
 - Diogo Goncalves Silva (Software Engineer)
 - Johan Alkstål (Software Developer)
+- Ajeet Pratap Singh (Open Source Developer)
 - Shivam Veer (Software Engineer / DIYer)
 
 [0]: https://github.com/openjs-foundation/cross-project-council/issues/1509
