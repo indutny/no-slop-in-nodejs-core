@@ -2,30 +2,27 @@
 
 We, the undersigned, petition the Node.js Technical Steering Committee (TSC)
 to vote **NO** on ["Is AI-assisted development allowed?"][0] and not accept
-[LLM assisted rewrites of core internals][1].
+[LLM generated rewrites of core internals][1].
 
 Node.js is a _critical infrastructure_ running on millions of servers online and
 supporting engineers through command-line utilities that they use daily. We
 believe that diluting the core hand-written with _care and diligence_ over
 the years is against the mission and values of the project and should not be
-allowed. Accepting LLM changes to Node.js core would break the reputational
-bedrock of public contributions that have brought Node.js to its current
-public standing and societal value.
-
-Submitted generated code should be reproducible by reviewers without having to
-go through the paywall of subscription based LLM tooling.
+allowed. Accepting LLM generated changes to Node.js core would break the
+reputational bedrock of public contributions that have brought Node.js to its
+current public standing and societal value.
 
 ## Background
 
-[A 19k lines-of-code Pull Request][1] was opened in January, 2026. The 
-[author][2] is a well known and long time contributor to Node.js core, but the 
+[A 19k lines-of-code Pull Request][1] was opened in January, 2026. The
+[author][2] is a well known and long time contributor to Node.js core, but the
 Pull Request description has listed this sentence as a disclaimer:
 
 > I've used a significant amount of Claude Code tokens to create this PR.
 > I've reviewed all changes myself.
 
-The [blog post][3] that surfaced on [Hacker News][4] that started a debate over 
-whether a change like that even satisfies the requirements of 
+The [blog post][3] that surfaced on [Hacker News][4] that started a debate over
+whether a change like that even satisfies the requirements of
 [Developer's Certificate of Origin (DCO)][5]:
 
 ```text
@@ -57,6 +54,20 @@ By making a contribution to this project, I certify that:
 and even though the [legal opinion of OpenJS foundation][6] is that LLM assisted
 changes are not in violation of DCO, we believe that this is only a small part of
 the issue with large LLM-written changes to the Node.js core.
+
+## Additional Concerns
+
+- _Ethical_: major LLM companies use unethically sourced material for their
+  training. This includes copyrighted works, and unattributed Open Source code
+  of varying licensing
+- _Educational_: there is evidence that use of LLM hinders learning process for
+  students. Since Open Source projects frequently on-board new contributors
+  lowering the quality bar of accepted code could lead to decreased
+  understanding of the Node.js core and risk project's longevity
+- _Privilege_: LLM use requires paid subscription or significant
+  investment into hardware to run it locally (albeit, with lower quality of
+  output). Submitted generated code should be reproducible by reviewers without
+  having to go through the paywall of subscription based LLM tooling.
 
 ## Sign the Petition
 
