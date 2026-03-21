@@ -173,6 +173,7 @@ speed up the process.
 - Anthony C Howe (Software Developer)
 - Filip Maj (Software Engineer)
 - Gabriel Schmitt (Software Engineer)
+- Jared Wilcurt (UI Architect, Node Library Developer, used Node since 0.10)
 - Rishabh Dhawan (Software Developer)
 
 [0]: https://github.com/openjs-foundation/cross-project-council/issues/1509
