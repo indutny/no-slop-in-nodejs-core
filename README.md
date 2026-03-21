@@ -176,6 +176,7 @@ speed up the process.
 - Jared Wilcurt (UI Architect, Node Library Developer, used Node since 0.10)
 - Rishabh Dhawan (Software Developer)
 - Matías Lescano (Software Developer)
+- Matthias "Padcom" Hryniszak (Author of Ardupilot/node-mavlink library)
 
 [0]: https://github.com/openjs-foundation/cross-project-council/issues/1509
 [1]: https://github.com/nodejs/node/pull/61478
