@@ -183,6 +183,7 @@ speed up the process.
 - Attila Gonda (Software Engineer)
 - Lee Ashmore (Software Engineer)
 - Erik Westra (Developer)
+- Andrei Mandrican (Developer)
 
 [0]: https://github.com/openjs-foundation/cross-project-council/issues/1509
 [1]: https://github.com/nodejs/node/pull/61478
