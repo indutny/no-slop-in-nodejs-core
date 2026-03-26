@@ -192,6 +192,7 @@ speed up the process.
 - Tom P Rogers (Software Developer)
 - Leslie Wong (Software Engineer)
 - Denis Craig (Software Engineer)
+- Connor Z (Software Engineer)
 - Alex Petcoglo (Developer)
 - Abhinav Patel (Software Engineer)
 
