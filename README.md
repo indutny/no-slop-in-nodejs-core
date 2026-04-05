@@ -203,6 +203,7 @@ speed up the process.
 - Oleksii Romanchenko (Software Engineer)
 - Thomas Grzesiakowski (Senior Software Engineer, Node user since 2016)
 - Josh Junon
+- Pavlo Ivanichenko
 
 [0]: https://github.com/openjs-foundation/cross-project-council/issues/1509
 [1]: https://github.com/nodejs/node/pull/61478
